@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Bible Quiz
+Categories=GTK;GNOME;UtilitY;
+Exec=gnome-terminal -- /home/Path/To/Folder/File/bible_learning.sh
+Icon=/home/Path/To/Folder/File/bible_learning.png
+Path=/home/Path/To/Folder/File/bible_learning
+Terminal=true
